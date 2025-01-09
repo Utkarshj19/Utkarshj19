@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Utkarshj19
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently practicing web development alonside UI/UX
 - 📫 How to reach me utkarshj19@gmail.com
 
 <!---
